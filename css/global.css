@@ -97,3 +97,20 @@ body {
     to { box-shadow: 0 0 20px #ccc; text-shadow: 0 0 16px #ccc}
 }
 
+/* style the please rotate elements */
+#pleaserotate-container {
+    width: 400px;
+    font-size: 20pt;
+
+}
+
+#pleaserotate-graphic{
+    width: 300px;
+    fill: #fff;
+}
+
+#pleaserotate-backdrop {
+    color: #fff;
+    background-color: #000;
+}
+
